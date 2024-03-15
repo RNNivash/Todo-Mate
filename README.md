@@ -2,8 +2,7 @@
 
 Welcome to Todo Mate, your reliable task management mobile app built to help you stay organized and productive. Todo Mate offers a simple and responsive interface, designed with Flutter's state management solution, Provider, ensuring seamless task management across various platforms.
 
-![Simulator Screenshot - iPhone 15 - 2024-03-12 at 16 00 35](https://github.com/RNNivash/Todo-Mate/assets/90308206/25f9e8c4-edcb-43ff-8a67-a979a0523168)
-![Simulator Screenshot - iPhone 15 - 2024-03-12 at 16 00 18](https://github.com/RNNivash/Todo-Mate/assets/90308206/9162c462-6d34-475d-a8f5-d667f0e21b9b)
+![Simulator Screenshot - iPhone 15 - 2024-03-12 at 16 00 35](https://github.com/RNNivash/Todo-Mate/assets/90308206/25f9e8c4-edcb-43ff-8a67-a979a0523168)![Simulator Screenshot - iPhone 15 - 2024-03-12 at 16 00 18](https://github.com/RNNivash/Todo-Mate/assets/90308206/9162c462-6d34-475d-a8f5-d667f0e21b9b)
 
 ## Features
 
